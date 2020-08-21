@@ -2,16 +2,49 @@
     <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
 </h1>
 
+<h1 align="center">
+    <img alt="Foodfy" src="https://res.cloudinary.com/lukemorales/image/upload/v1562696000/readme_logos/react-rocketshoes_jy1lze.png" />
+    <br>
+    Foodfy
+</h1
+
 <h3 align="center">
-  Desafio 4-4: Apresentação, edição e formatação dos dados de um professor
+  Projeto Desafio do Bootcamp Launchbase da [Rocketseat](https://rocketseat.com.br)
 </h3>
 
 <blockquote align="center">“Comece fazendo o que é necessário, depois o que é possível, e de repente você estará fazendo o impossível.”</blockquote>
 
 <p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lukemorales/react-rocketshoes.svg">
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lukemorales/react-rocketshoes.svg">
+
+  <a href="https://www.codacy.com/app/lukemorales/react-rocketshoes?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lukemorales/react-rocketshoes&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/1b577a07dda843aba09f4bc55d1af8fc.svg">
+  </a>
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lukemorales/react-rocketshoes.svg">
+  <a href="https://github.com/lukemorales/react-rocketshoes/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lukemorales/react-rocketshoes.svg">
+  </a>
+
+  <a href="https://github.com/lukemorales/react-rocketshoes/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/lukemorales/react-rocketshoes.svg">
+  </a>
+
+  <img alt="GitHub" src="https://img.shields.io/github/license/lukemorales/react-rocketshoes.svg">
+</p>
+
+<p align="center">
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
+
+<p align="center">
 
   <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
+    <img alt="Made by Bruno Weber" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
   </a>
 
   <a href="LICENSE" >
@@ -28,7 +61,7 @@
 
 ## :rocket: Sobre o desafio
 
-Nessa etapa você deve criar duas rotas: uma para apresentar os dados do professor (show) e outra para a edição dos dados cadastrados (edit). Além disso, realize a formatação dos dados cadastrados para a correta exibição no HTML
+Desenvolver uma aplicação completa de receitas para uma empresa fictícia chamada "Foodfy", incluindo o Admin para o gerenciamento dessas receitas.
 
 ### Show
 
@@ -47,11 +80,11 @@ Crie uma rota para lidar com a edição dos dados cadastrados de um professor. D
 
 ### Estilização
 
-Você tem liberdade para escolher a estilização que preferir para esse desafio.
+A estilização 
 
-## :calendar: Entrega
+## :calendar: Entrega e Aprovação
 
-Esse desafio **não precisa ser entregue** e não receberá correção. Após concluí-lo, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
+Esse desafio está **em andamento** e receberá correção da Rocketseat.
 
 ## :memo: Licença
 
@@ -59,4 +92,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para
 
 ---
 
-Feito com :purple_heart: by [Rocketseat](https://rocketseat.com.br) :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com :purple_heart: by [Bruno Weber](https://brunoweber.com.br) :wave:
